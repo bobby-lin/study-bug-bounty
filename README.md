@@ -86,6 +86,7 @@ If you are beginning bug bounty hunting, you will need to know that it will take
 ### Other Aggregated Resources
 <ul>
   <li>https://www.hackerone.com/blog/resources-for-new-hackers</li>
+  <li>https://www.peerlyst.com/posts/the-everything-bug-bounty-wiki-peerlyst?trk=company_page_posts_panel</li>
   <li>https://github.com/onlurking/awesome-infosec</li>
   <li>https://forum.bugcrowd.com/t/researcher-resources-tutorials/370</li>
   <li>https://forum.bugcrowd.com/t/researcher-resources-tools/167</li>
