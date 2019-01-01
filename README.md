@@ -7,7 +7,7 @@ If you are beginning bug bounty hunting, you will need to know that it will take
 <b>Responsiblity.</b> Do not disclose an issue if the counterparty have not agreed to do so.
 
 ## Learning
-<b>Web Application basics</b>. Learn how a request works, HTTP headers, JSON requests, how a browser works, how they communicate and send data to the servers, DNS etc.
+<b>Web Application basics</b>. Learn how a request works, HTTP headers, JSON requests, how a browser works, how they communicate and send data to the servers, DNS etc. https://developer.mozilla.org/en-US/docs/Web
 
 <b>Common scope vulnerabilities.</b> You will need to know common scope vulnerabilities such as Remote Code Execution (RCE), Cross Site Request Forgery (CSRF), Cross Site Scripting (XSS), Injections (SQL, Command etc.), Clickjacking, Open Redirects, etc.
 
