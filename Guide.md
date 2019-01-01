@@ -1,7 +1,15 @@
 # Guide to Bug Bounty Hunting
 ## Mindset
+If you are beginning bug bounty hunting, you will need to know that it will take time to learn the bug hunting skills. You need to have the patient and determination to continue hunting even though you might not see successful results quickly. The bug bounty field is crowded and competitive, hence you will require hardwork, dedication, lateral thinking to persist on. Hunting is about learning and acting noob all the time. Everyone starts from somewhere.
+
 ## Learning
+<b>Common scope vulnerabilities.</b> You will need to know common scope vulnerabilities such as Remote Code Execution (RCE), Cross Site Request Forgery (CSRF), Cross Site Scripting (XSS), Injections (SQL, Command etc.), Clickjacking, Open Redirects, etc.
+
+<b>Read blogs.</b> Learn new techniques from other bug bounty hunters so that you can test it out during your testing.
+
 ## Testing Strategies
+<b>Targeted Test.</b>You do not want to test the applications for different vulnerabilities in an unstructured manner because this often results in shallow testing or makes you feel that you have already search for everything. If you are stuck with your testing, ask yourself what you are testing on. Set a SMART goal - specify what the vulnerability you are targeting, the hard deadline for completing the testing, etc. This strategy will help you to know which resources to look for and specific questions to ask your peers. You can also prioritize on what to look for based on the goal.
+
 ## Resources
 ### Books
 <ul>
