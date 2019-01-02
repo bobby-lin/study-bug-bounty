@@ -54,7 +54,11 @@ If you are beginning bug bounty hunting, you will need to know that it will take
 ### Online Readings
 <ul>
   <li>https://whitton.io/articles/bug-bounties-101-getting-started/</li>
-  <li><a href="https://hackerone.com/hacktivity">Hackerone Hackactivity</a></li>
+  <li><a href="https://github.com/jhaddix/tbhm">The Bug Hunters Methodology</a></li>
+  <li><a href="https://github.com/EdOverflow/bugbounty-cheatsheet">Bug Bounty Cheatsheet</a></li>
+  <li><a href="https://github.com/ngalongc/bug-bounty-reference/">Bug Bounty Reference</a></li>
+  <li><a href="https://github.com/bugcrowd/vulnerability-rating-taxonomy">Bugcrowd Vulnerability Rating Taxonomy (VRT)</a></li>
+  <li><a href="https://hackerone.com/hacktivity">Hackerone Hackactivity</a></li>">Google</a>
   <li>https://www.hackerone.com/blog/What-To-Do-When-You-Are-Stuck-Hacking</li>
   <li>https://www.quora.com/How-does-one-become-a-bug-bounty-hunter/answer/Jobert-Abma</li>
   <li>https://www.quora.com/How-much-time-did-you-take-from-completely-beginning-hacking-to-your-first-success-or-bug-bounty/answer/Jobert-Abma</li>
