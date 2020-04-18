@@ -19,6 +19,8 @@ If you are beginning bug bounty hunting, you will need to know that it will take
 
 <b>Learn how to make and then break.</b> You need to know how a web or mobile application is developed first so that you can understand how the thing works and hence how it can be broken down. This is beneficial for your long-term development rather than being a hunter that only knows how to send payloads (obtained from internet). Build a few web applications to understand how the web architecture works.
 
+> From <a href="https://twitter.com/spaceraccoonsec/status/1250403032971407360?s=20"> Spaceraccoon's tweet</a>: To be blunt, I don't automate. I tried building a pipeline and failed. You can succeed just by learning the fundamentals. Check out @PortSwigger's web academy, watch @NahamSec's stream, read @Hacker0x01 disclosures. And learn how to build what you're hacking. 
+
 ## Testing Strategies
 <b>Scope your Testing.</b> You do not want to test the applications for different vulnerabilities in an unstructured manner because this often results in shallow testing or makes you feel that you have already search for everything. If you are stuck with your testing, ask yourself what you are testing on. Set a SMART goal - specify what the vulnerability you are targeting, the hard deadline for completing the testing, etc. This strategy will help you to know which resources to look for and specific questions to ask your peers. You can also prioritize on what to look for based on the goal.
 
@@ -76,7 +78,8 @@ If you are beginning bug bounty hunting, you will need to know that it will take
   <li>https://www.quora.com/How-do-bug-bounty-hunters-find-bugs/answer/Jobert-Abma</li>
   <li>https://www.quora.com/How-much-can-I-make-in-my-first-year-as-a-bug-bounty-hunter</li>
   <li>https://blog.detectify.com/2019/05/03/meet-the-hacker-inti-de-ceukelaire-while-everyone-is-looking-for-xss-i-am-just-reading-the-docs</li>
-  <li>http://blog.oath.ninja/basic-bug-bounty-faq/<li>
+  <li>http://blog.oath.ninja/basic-bug-bounty-faq</li>
+  <li></li>
 </ul>
  
  ### Online Videos
