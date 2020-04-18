@@ -79,7 +79,7 @@ If you are beginning bug bounty hunting, you will need to know that it will take
   <li>https://www.quora.com/How-much-can-I-make-in-my-first-year-as-a-bug-bounty-hunter</li>
   <li>https://blog.detectify.com/2019/05/03/meet-the-hacker-inti-de-ceukelaire-while-everyone-is-looking-for-xss-i-am-just-reading-the-docs</li>
   <li>http://blog.oath.ninja/basic-bug-bounty-faq</li>
-  <li></li>
+  <li>https://twitter.com/spaceraccoonsec</li>
 </ul>
  
  ### Online Videos
