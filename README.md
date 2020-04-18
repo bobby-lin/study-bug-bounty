@@ -2,6 +2,8 @@
 ## Mindset
 If you are beginning bug bounty hunting, you will need to know that it will take time to learn the bug hunting skills. You need to have the patient and determination to continue hunting even though you might not see successful results quickly. The bug bounty field is crowded and competitive, hence you will require hardwork, dedication, lateral thinking to persist on. Hunting is about learning and acting noob all the time. Everyone starts from somewhere.
 
+> From Tommy (dawgyg) DeVoss: If you have the ability to look at a web application and think of ways to break the application, then you can give it a shot. For some people it can be a very slow start to the process, and others will start finding bugs right after they begin. A very important thing to remember when doing bug bounties is to not get depressed / upset if it takes you longer to find valid bugs etc. Not everyone is going to find bugs every time they sit down to hack. And its very common to go days, weeks or even months with out finding bugs. Don't compare your own success or failures to others. Because as with anything else, there will always be someone better than you, and others worse than you. So setting your own goals and working to acheive them can be very important.
+
 <b>Rewards.</b> The lessons and knowledge learned are the only rewards that are within your control. So if you are a beginner, you should set the goal of learning about the vulnerabilities and techniques to exploit them rather than how much money you should make.
 
 <b>Responsiblity.</b> Do not disclose an issue if the counterparty have not agreed to do so.
@@ -21,6 +23,14 @@ If you are beginning bug bounty hunting, you will need to know that it will take
 <b>Scope your Testing.</b> You do not want to test the applications for different vulnerabilities in an unstructured manner because this often results in shallow testing or makes you feel that you have already search for everything. If you are stuck with your testing, ask yourself what you are testing on. Set a SMART goal - specify what the vulnerability you are targeting, the hard deadline for completing the testing, etc. This strategy will help you to know which resources to look for and specific questions to ask your peers. You can also prioritize on what to look for based on the goal.
 
 ````Example of a goal: For the next 4 hours, I will test on feature X for SQL Injection.````
+
+<b>Choosing programs with Larger Scope.</b> You want to choose a program that uses something that you are familiar with. If not, then you must ask yourself whether this is something you will like to learn. Larger scope is better because the researchers will not concentrate on the same targets and some things might be overlooked.
+
+> From Tommy (dawgyg) DeVoss: When it comes to picking a program to start there are several things to consider. The first, and most important, is picking a program that employs the kind of stack / architecture you may be familiar with, or have a desire to learn and attack [...] Next you are going to want to consider the scope. When I look at a program to decide if I want to spend any time on it, I look for programs with either large scopes (such as wild card domains, and the more domains the better) or with web apps that are very complex. I personally love huge scopes, since it kind of helps to spread out the researchers a bit. 
+
+<b>Test the uncommon attack vectors.</b> This requires you to do more in depth work in understanding how the application works (in terms of technologies and business functions). Ask yourself whether the bug that you are looking for are already tested automatically by a conventional scanner. For example, if you test a normal XSS payload on the common attack vectors such as input boxes etc., the chances are that many hunters have done it. Ask yourself whether there are other ways to trigger the XSS payload in an unexpected attack vector.
+
+> From Inti: Edge-cases like that is what I love. If I have a secret, that is the one. Do not look where everyone is looking, because you will get a duplicate [...] My advice: if you are a researcher and want to secure your payout for the next 5-10 years, start looking for custom bugs, logical flaws, and other things scanners or other researchers do not look into. That can lead to more impact, you will find new types of vulnerabilities, you can get speaker events, write blog posts about it, opportunities are plenty. It is more about your mindset and being open-minded to try stupid stuff or something unknown and not follow a checklist.
 
 <b>Look for impactful bugs.</b> Try to submit bugs which are impactful and easy to understand. Choose quality over quantity. Many successful hunters read the programme policies first before they start looking for vulnerabilities.
 
@@ -65,7 +75,9 @@ If you are beginning bug bounty hunting, you will need to know that it will take
   <li>https://www.quora.com/How-much-time-did-you-take-from-completely-beginning-hacking-to-your-first-success-or-bug-bounty/answer/Jobert-Abma</li>
   <li>https://www.quora.com/How-do-bug-bounty-hunters-find-bugs/answer/Jobert-Abma</li>
   <li>https://www.quora.com/How-much-can-I-make-in-my-first-year-as-a-bug-bounty-hunter</li>
- </ul>
+  <li>https://blog.detectify.com/2019/05/03/meet-the-hacker-inti-de-ceukelaire-while-everyone-is-looking-for-xss-i-am-just-reading-the-docs</li>
+  <li>http://blog.oath.ninja/basic-bug-bounty-faq/<li>
+</ul>
  
  ### Online Videos
  <ul>
