@@ -19,7 +19,13 @@ If you are beginning bug bounty hunting, you will need to know that it will take
 
 <b>Learn how to make and then break.</b> You need to know how a web or mobile application is developed first so that you can understand how the thing works and hence how it can be broken down. This is beneficial for your long-term development rather than being a hunter that only knows how to send payloads (obtained from internet). Build a few web applications to understand how the web architecture works.
 
-> From <a href="https://twitter.com/spaceraccoonsec/status/1250403032971407360?s=20"> Spaceraccoon's tweet</a>: To be blunt, I don't automate. I tried building a pipeline and failed. You can succeed just by learning the fundamentals. Check out @PortSwigger's web academy, watch @NahamSec's stream, read @Hacker0x01 disclosures. And learn how to build what you're hacking. 
+> From <a href="https://twitter.com/spaceraccoonsec/status/1250403032971407360?s=20"> Spaceraccoon's tweet</a>: To be blunt, I don't automate. I tried building a pipeline and failed. You can succeed just by learning the fundamentals. Check out @PortSwigger's web academy, watch @NahamSec's stream, read @Hacker0x01 disclosures. And learn how to build what you're hacking.
+
+### Training Platforms
+- [BugBountyHunter](https://www.bugbountyhunter.com/): 
+  - Simulates Opacity: The platform simulates a more realistic bug hunting experience where you need to explore and understand each features to find bugs. You do not know beforehand on whether the features have bugs or not (and what kind of vulnerabilities).
+  - Community: Members share resources and help each other.
+  - Zseano Methodology: Download from https://www.bugbountyhunter.com/methodology/
 
 ## Testing Strategies
 <b>Scope your Testing.</b> You do not want to test the applications for different vulnerabilities in an unstructured manner because this often results in shallow testing or makes you feel that you have already search for everything. If you are stuck with your testing, ask yourself what you are testing on. Set a SMART goal - specify what the vulnerability you are targeting, the hard deadline for completing the testing, etc. This strategy will help you to know which resources to look for and specific questions to ask your peers. You can also prioritize on what to look for based on the goal.
