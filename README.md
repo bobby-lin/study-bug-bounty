@@ -69,6 +69,11 @@ If you are beginning bug bounty hunting, you will need to know that it will take
   <li><a href="https://www.google.com/about/appsecurity/">Google</a></li>
 </ul>
 
+### Writeups
+<ul>
+  <li><a href="https://github.com/xdavidhu/awesome-google-vrp-writeups">Google VRP Writeups</a></li>
+</ul>
+
 ### Online Readings
 <ul>
   <li><a ref="https://bugbountytuts.files.wordpress.com/2018/02/dirty-recon.pdf">Recon Like A Boss</a></li>
