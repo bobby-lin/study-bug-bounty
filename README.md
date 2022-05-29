@@ -46,6 +46,15 @@ If you are beginning bug bounty hunting, you will need to know that it will take
 
 >From Peter Yaworski: <ul><li>For a text editor, if you can insert html, try doubling up on html attributes, like two hrefs in an anchor tag, or extra quotes like the markdown example.</li><li>When submitting forms, use a tool or proxy to remove parameters (for Firefox, tamperdata is a great one). On the same note, if a site is using JavaScript to validate input before it is submitted to the server, use the proxy to change the values after they are validated in the event the developer just relied on the JavaScript.</li><li>Combining steps to create vulnerability. Again, with the Hackerone markdown example, having the hanging single quote combined with additional html later in the page with a single quote would create vulnerability. With Google's program, they include a multiplier whereby if you need multiple steps and you can actually demonstrate that all the steps are achievable, they'll increase your reward.</li><li>Consider where the vulnerability might actually show up. For example, Shopify's disclosure program states that it excludes vulnerabilities on your own store or cart (I learned the hard way from over excitement...). BUT, some of the fields that are used to create your store are used externally as well. There is an disclosure report indicating that the currency formatting field allowed for XSS injection. At first glance, you would think this shows up on the store page so who cares. BUT, Shopify provides integration with Facebook and Twitter using that same field and actually rendered the XSS resulting in a $500 bounty</li></ul>
 
+## Finding evasive bugs
+My notes from [Hunting Evasive Vulnerabilities: Finding Flaws That Others Miss by James Kettle](https://www.youtube.com/watch?v=skbKjO8ahCI&feature=emb_title&ab_channel=nullcon)
+- Don’t look for defences; Start with the attacks first.
+- Look for unfashionable flaws.
+- Your understanding of a vulnerability concept may be corrupted. Dig deeper to the original sources rather than accepting the secondary sources that appear in on internet searches to learn.
+- Recognise the fear from the new or unknown (Technique sounds cool but…)
+- Recognise that you might think that something is an implausible idea. Don’t just try something and then give out if it does not work. Instead do this: Explain why the idea will not work unless condition X exists. Try the obvious to make sure that it is obviously secured.
+- Look to gain advantages by having a better understanding of a particular application context, application specific knowledge or something that is inconvenient to others (such that they can't test the feature).
+
 ## Resources
 ### Books
 <ul>
