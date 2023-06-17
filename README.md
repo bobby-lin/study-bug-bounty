@@ -90,6 +90,7 @@ My notes from [Hunting Evasive Vulnerabilities: Finding Flaws That Others Miss b
 
 ### Online Readings
 <ul>
+  <li><a ref="https://portswigger.net/research/how-i-choose-a-security-research-topic">James Kettle on how he choose a security research topic</a></li>
   <li><a ref="https://bugbountytuts.files.wordpress.com/2018/02/dirty-recon.pdf">Recon Like A Boss</a></li>
   <li>https://whitton.io/articles/bug-bounties-101-getting-started/</li>
   <li><a href="https://github.com/jhaddix/tbhm">The Bug Hunters Methodology</a></li>
