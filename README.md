@@ -106,6 +106,8 @@ My notes from [Hunting Evasive Vulnerabilities: Finding Flaws That Others Miss b
   <li>https://blog.detectify.com/2019/05/03/meet-the-hacker-inti-de-ceukelaire-while-everyone-is-looking-for-xss-i-am-just-reading-the-docs</li>
   <li>http://blog.oath.ninja/basic-bug-bounty-faq</li>
   <li>https://twitter.com/spaceraccoonsec</li>
+  <li>https://rhynorater.github.io/Beginners-Resources</li>
+  <li>https://securityflow.io/roadmap/</li>
 </ul>
  
  ### Online Videos
