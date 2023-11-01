@@ -3,6 +3,7 @@
 - [Guide to Bug Bounty Hunting](#guide-to-bug-bounty-hunting)
   * [Mindset](#mindset)
   * [Learning](#learning)
+    + [Mastery](#mastery)
     + [Training Platforms](#training-platforms)
   * [Testing Strategies](#testing-strategies)
   * [Finding evasive bugs](#finding-evasive-bugs)
@@ -38,6 +39,13 @@ If you are beginning bug bounty hunting, you will need to know that it will take
 <b>Learn how to make and then break.</b> You need to know how a web or mobile application is developed first so that you can understand how the thing works and hence how it can be broken down. This is beneficial for your long-term development rather than being a hunter that only knows how to send payloads (obtained from internet). Build a few web applications to understand how the web architecture works.
 
 > From <a href="https://twitter.com/spaceraccoonsec/status/1250403032971407360?s=20"> Spaceraccoon's tweet</a>: To be blunt, I don't automate. I tried building a pipeline and failed. You can succeed just by learning the fundamentals. Check out @PortSwigger's web academy, watch @NahamSec's stream, read @Hacker0x01 disclosures. And learn how to build what you're hacking.
+### Mastery
+
+[![Watch the video](https://img.youtube.com/vi/Ys66llx4PvA/0.jpg)](https://youtu.be/nTQUwghvy5Q)
+
+- https://azeria-labs.com/the-process-of-mastering-a-skill/
+- https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/
+- https://azeria-labs.com/paradox-of-choice/
 
 ### Training Platforms
 - [BugBountyHunter](https://www.bugbountyhunter.com/): 
