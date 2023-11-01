@@ -1,4 +1,20 @@
 # Guide to Bug Bounty Hunting
+
+- [Guide to Bug Bounty Hunting](#guide-to-bug-bounty-hunting)
+  * [Mindset](#mindset)
+  * [Learning](#learning)
+    + [Training Platforms](#training-platforms)
+  * [Testing Strategies](#testing-strategies)
+  * [Finding evasive bugs](#finding-evasive-bugs)
+  * [Resources](#resources)
+    + [Books](#books)
+    + [Platforms](#platforms)
+    + [Writeups](#writeups)
+    + [Online Readings](#online-readings)
+    + [Online Videos](#online-videos)
+    + [Forums](#forums)
+    + [Other Aggregated Resources](#other-aggregated-resources)
+
 ## Mindset
 If you are beginning bug bounty hunting, you will need to know that it will take time to learn the bug hunting skills. You need to have the patience and determination to continue hunting even though you might not see successful results quickly. The bug bounty field is crowded and competitive, hence you will require hardwork, dedication, lateral thinking to persist on. Hunting is about learning and acting noob all the time. Everyone starts from somewhere.
 
@@ -70,7 +86,7 @@ My notes from [Hunting Evasive Vulnerabilities: Finding Flaws That Others Miss b
   <li><a href="https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide">OWASP Mobile Security Testing Guide (MSTG)</a></li>
 </ul>
 
-### Platform / Companies
+### Platforms
 <ul>
   <li><a href="https://www.hackerone.com/">Hackerone</a></li>
   <li><a href="https://www.bugcrowd.com/">Bug Crowd</a></li>
