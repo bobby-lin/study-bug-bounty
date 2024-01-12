@@ -46,6 +46,8 @@ If you are beginning bug bounty hunting, you will need to know that it will take
 - https://azeria-labs.com/the-process-of-mastering-a-skill/
 - https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/
 - https://azeria-labs.com/paradox-of-choice/
+- https://twitter.com/PentesterLab/status/1745206484458430699
+- https://twitter.com/PentesterLab/status/1744116898248462551
 
 ### Training Platforms
 - [BugBountyHunter](https://www.bugbountyhunter.com/): 
